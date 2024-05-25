@@ -1,1 +1,1 @@
-Hey,This is a text file for branching and switching.
+Hey,This is a text file for branching and switching. After branching and switching this is the new file. 
